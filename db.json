@@ -25,6 +25,14 @@
       "postId": 1
     }
   ],
+  "checkserver": [
+    {
+      "id": 1,
+      "serverid": "140408",
+      "serverurl": "https://my-json-server.typicode.com/Sectly/JSONServer-Sectly/db",
+      "serverowner": "Sectly_playz#1404"
+    }
+  ],
   "profile": {
     "name": "sectly"
   }
