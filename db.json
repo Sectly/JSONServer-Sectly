@@ -17,12 +17,12 @@
     {
       "id": 1,
       "mainurl": "link 1",
-      "postId": 1
+      "checkmainurl": 14
     },
     {
       "id": 2,
       "system": "require 1",
-      "postId": 1
+      "checksystem": 4
     }
   ],
   "checkserver": [
@@ -36,6 +36,7 @@
   "profile": {
     "id": 1,
     "name": "sectly",
+    "readme": "Hello there i see that your looking at my json server api, DO NOT Copy this!"
     "profilelink": "https://my-json-server.typicode.com/Sectly/JSONServer-Sectly/"
   }
 }
