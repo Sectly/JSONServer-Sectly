@@ -36,7 +36,7 @@
   "profile": {
     "id": 1,
     "name": "sectly",
-    "readme": "Hello there i see that your looking at my json server api, DO NOT Copy this!"
+    "readme": "Hello there i see that your looking at my json server api, DO NOT Copy this!",
     "profilelink": "https://my-json-server.typicode.com/Sectly/JSONServer-Sectly/"
   }
 }
