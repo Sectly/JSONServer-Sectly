@@ -1,10 +1,21 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+[
+  {
+    "id": 1,
+    "title": "27st3"
+  },
+  {
+    "id": 2,
+    "title": "Empty 1"
+  },
+  {
+    "id": 3,
+    "title": "Empty 2"
+  },
+  {
+    "id": 4,
+    "title": "Empty 3"
+  }
+],
   "profile": {
     "name": "sectly"
   }
