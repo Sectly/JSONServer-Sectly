@@ -35,6 +35,7 @@
   ],
   "profile": {
     "id": 1,
-    "name": "sectly"
+    "name": "sectly",
+    "profilelink": "https://my-json-server.typicode.com/Sectly/JSONServer-Sectly/"
   }
 }
