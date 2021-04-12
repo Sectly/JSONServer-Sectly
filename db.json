@@ -2,26 +2,26 @@
   "database": [
     {
       "id": 1,
-      "title": "27st3"
+      "user": "27st3"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "version": "4.8"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "userid": "Post 3"
     }
   ],
   "api": [
     {
       "id": 1,
-      "body": "link 1",
+      "mainurl": "link 1",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "require 1",
+      "system": "require 1",
       "postId": 1
     }
   ],
