@@ -1,0 +1,9 @@
+[
+	"27st3 - Making custom build/branch of commander",
+  "powder - Owner of Coasterz",
+  "nana_kon - Project lead",
+	"NuclearTheNoob - Maintainer",
+	"matsumooo - Maintainer",
+	"rgieseke/textredux - Matcher.lua",
+	"built with Rojo"
+]
